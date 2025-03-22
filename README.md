@@ -22,6 +22,7 @@ Beyond my professional work, I actively contribute to mentoring initiatives and 
 ### 📢 Connect with Me:
 - **LinkedIn**: [[linkedin.com/in/bhuvnesh-arya](https://www.linkedin.com/in/bhuvnesh-arya/)]
 - **Twitter/X**: [[@Bhuvneshdot](https://x.com/Bhuvneshdot)]
+- **Youtube**: [[@bhuvnesharya10](https://www.youtube.com/@bhuvnesharya10)]
 - **Website**: [insightveda.com](https://insightveda.com/)
 
 📩 **Let's collaborate, learn, and grow together!**
