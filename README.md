@@ -5,7 +5,7 @@
 I am a passionate **Software Architect and Engineering Leader** with over a decade of experience in the technology industry. My journey in software development began in 2010, and over the years, I’ve cultivated deep expertise in **Software Architecture, System Design, Backend Systems**.
 
 ### 🚀 Professional Experience
-- **Software Architect at [Wesco](https://www.wesco.com/)** | Ex - [Siemens](https://www.siemens.com/global/en.html)**
+- **Software Architect at [Wesco](https://www.wesco.com/)** | Ex - [Siemens](https://www.siemens.com/global/en.html)
 - Specialized in **Software Architecture, System Design, and Backend Systems**
 - Founder of **[InsightVeda.com](https://insightveda.com/)** – A platform to sharpen developers’ architectural thinking skills.
 
