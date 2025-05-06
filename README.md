@@ -1,4 +1,4 @@
-# Hi, I'm Bhuvnesh Arya! 👋
+# Hi, I'm Bhuvnesh Arya!
 
 ## Software Architect
 
